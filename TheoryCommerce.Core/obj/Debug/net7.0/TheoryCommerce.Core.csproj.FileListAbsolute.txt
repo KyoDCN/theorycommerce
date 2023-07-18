@@ -1,0 +1,12 @@
+C:\Users\dcnoe\source\repos\TheoryCommerce\TheoryCommerce.Core\bin\Debug\net7.0\TheoryCommerce.Core.deps.json
+C:\Users\dcnoe\source\repos\TheoryCommerce\TheoryCommerce.Core\bin\Debug\net7.0\TheoryCommerce.Core.dll
+C:\Users\dcnoe\source\repos\TheoryCommerce\TheoryCommerce.Core\bin\Debug\net7.0\TheoryCommerce.Core.pdb
+C:\Users\dcnoe\source\repos\TheoryCommerce\TheoryCommerce.Core\obj\Debug\net7.0\TheoryCommerce.Core.csproj.AssemblyReference.cache
+C:\Users\dcnoe\source\repos\TheoryCommerce\TheoryCommerce.Core\obj\Debug\net7.0\TheoryCommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcnoe\source\repos\TheoryCommerce\TheoryCommerce.Core\obj\Debug\net7.0\TheoryCommerce.Core.AssemblyInfoInputs.cache
+C:\Users\dcnoe\source\repos\TheoryCommerce\TheoryCommerce.Core\obj\Debug\net7.0\TheoryCommerce.Core.AssemblyInfo.cs
+C:\Users\dcnoe\source\repos\TheoryCommerce\TheoryCommerce.Core\obj\Debug\net7.0\TheoryCommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\dcnoe\source\repos\TheoryCommerce\TheoryCommerce.Core\obj\Debug\net7.0\TheoryCommerce.Core.dll
+C:\Users\dcnoe\source\repos\TheoryCommerce\TheoryCommerce.Core\obj\Debug\net7.0\refint\TheoryCommerce.Core.dll
+C:\Users\dcnoe\source\repos\TheoryCommerce\TheoryCommerce.Core\obj\Debug\net7.0\TheoryCommerce.Core.pdb
+C:\Users\dcnoe\source\repos\TheoryCommerce\TheoryCommerce.Core\obj\Debug\net7.0\ref\TheoryCommerce.Core.dll

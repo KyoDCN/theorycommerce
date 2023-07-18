@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TheoryCommerce.API.props" />
+</Project>
