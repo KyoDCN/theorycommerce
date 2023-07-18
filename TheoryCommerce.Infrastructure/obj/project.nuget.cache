@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cHRqBzWNXB1d/NzfeylkuL48WYX8ORmm59m5wshNc1KEQqUUJhM/l0RiM0Egb2xd8pvkX7Q077w4qgB9haAe5Q==",
+  "dgSpecHash": "bwaB4x+v+ynHNh7VbO56Lv+KzvgBfPAUrF47gmwIUpFIMkLB6tIDqmVYvXNaCtcAOifLFs7AvDhElFxX8p2upQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.Infrastructure\\TheoryCommerce.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.Infrastructure\\TheoryCommerce.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dcnoe\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
     "C:\\Users\\dcnoe\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.9\\microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",

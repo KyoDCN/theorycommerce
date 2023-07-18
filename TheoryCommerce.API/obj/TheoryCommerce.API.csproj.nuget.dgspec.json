@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.API\\TheoryCommerce.API.csproj": {}
+    "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.API\\TheoryCommerce.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.API\\TheoryCommerce.API.csproj": {
+    "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.API\\TheoryCommerce.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.API\\TheoryCommerce.API.csproj",
+        "projectUniqueName": "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.API\\TheoryCommerce.API.csproj",
         "projectName": "TheoryCommerce.API",
-        "projectPath": "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.API\\TheoryCommerce.API.csproj",
+        "projectPath": "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.API\\TheoryCommerce.API.csproj",
         "packagesPath": "C:\\Users\\dcnoe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.API\\obj\\",
+        "outputPath": "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -34,11 +34,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj": {
-                "projectPath": "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj"
+              "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj": {
+                "projectPath": "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj"
               },
-              "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.Infrastructure\\TheoryCommerce.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.Infrastructure\\TheoryCommerce.Infrastructure.csproj"
+              "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.Infrastructure\\TheoryCommerce.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.Infrastructure\\TheoryCommerce.Infrastructure.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj": {
+    "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj",
+        "projectUniqueName": "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj",
         "projectName": "TheoryCommerce.Core",
-        "projectPath": "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj",
+        "projectPath": "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj",
         "packagesPath": "C:\\Users\\dcnoe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.Core\\obj\\",
+        "outputPath": "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -155,14 +155,14 @@
         }
       }
     },
-    "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.Infrastructure\\TheoryCommerce.Infrastructure.csproj": {
+    "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.Infrastructure\\TheoryCommerce.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.Infrastructure\\TheoryCommerce.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.Infrastructure\\TheoryCommerce.Infrastructure.csproj",
         "projectName": "TheoryCommerce.Infrastructure",
-        "projectPath": "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.Infrastructure\\TheoryCommerce.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.Infrastructure\\TheoryCommerce.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\dcnoe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -184,8 +184,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj": {
-                "projectPath": "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj"
+              "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj": {
+                "projectPath": "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj"
               }
             }
           }

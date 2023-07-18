@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qn/CVANwVx6nNLrGBmAJhnLYVYLy05nJqgyeBn291iseaKPS/HGxf8/vBFrj007uwv0KVjVwkBJq7iY9/4rjiA==",
+  "dgSpecHash": "zQRU2l1KsKSTPjQ/fwqYksinVWhxyZlT1/6ZcHw2aRzqO1ZeJ8nzgfNITM2a4Sm1AwLk5mnbzDb1wKcGxVPuYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.API\\TheoryCommerce.API.csproj",
+  "projectFilePath": "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.API\\TheoryCommerce.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dcnoe\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\dcnoe\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",

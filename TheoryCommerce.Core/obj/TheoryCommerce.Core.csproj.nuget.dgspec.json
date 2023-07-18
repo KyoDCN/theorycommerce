@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj": {}
+    "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj": {
+    "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj",
+        "projectUniqueName": "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj",
         "projectName": "TheoryCommerce.Core",
-        "projectPath": "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj",
+        "projectPath": "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.Core\\TheoryCommerce.Core.csproj",
         "packagesPath": "C:\\Users\\dcnoe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dcnoe\\source\\repos\\TheoryCommerce\\TheoryCommerce.Core\\obj\\",
+        "outputPath": "C:\\Users\\dcnoe\\source\\repos\\theorycommerce\\TheoryCommerce.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
